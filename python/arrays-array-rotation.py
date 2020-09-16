@@ -2,6 +2,7 @@
 # Topic: Arrays & Strings
 # Website: hackerearth
 # https://www.hackerearth.com/challenges/competitive/codemonk-arrays-strings/algorithm/monk-and-rotation-3/
+# Now located in Codemonk https://www.hackerearth.com/practice/codemonk/
 # Result: Accepted
 # Time Limit: 1.0 sec(s) for each input file.
 # Memory Limit:	256 MB
