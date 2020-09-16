@@ -1,6 +1,6 @@
 # coding-challenges
 Websites I take my challenges from:
-Hackerearth: ttps://www.hackerearth.com/
+Hackerearth: https://www.hackerearth.com/
 
 ## [Python](python)
 ### [Array Rotation - Arrays & Strings](python/array-rotation.py)
